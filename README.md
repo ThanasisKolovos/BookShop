@@ -1,5 +1,5 @@
 # BookShop
 .net 6
 razor pages
-entit framework core 
+entity framework core 
 unit testing
